@@ -27,6 +27,7 @@ print("This is the value of the Letter Variable:", letter_variable)
 # That variable, and to any type you want (string to number)
 number_variable, letter_variable = letter_variable, number_variable
 
+# Another common way of printing values is to use 'f strings', which is demonstrated below.
 print(
     f"Number Variable: {number_variable} \nLetter Variable: {letter_variable}"
 )
