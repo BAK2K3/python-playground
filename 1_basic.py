@@ -4,10 +4,10 @@
 
 This the 'doc-string' for the module 1_basic.py.
 
-Doc-strings can be found at the top of a module, or at the top line of a 
+Doc-strings can be found at the top of a module, or at the top line of a
 function, class, or method.
 
-Doc-strings are used to 'peek' into modules/functions when importing and 
+Doc-strings are used to 'peek' into modules/functions when importing and
 using them in other files.
 '''
 
